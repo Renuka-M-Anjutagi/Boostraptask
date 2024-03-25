@@ -1,0 +1,26 @@
+body{
+    background-color: lightgrey;
+    align-items: center;
+}
+.box{
+    padding: 60px;
+    margin: 20px;
+}
+.insta{
+
+    background-color: white;
+    text-align: center;
+
+    margin: 20px;
+    padding: 30px;
+   
+}
+.fa
+{
+    color: royalblue;
+}
+p{
+
+    margin: 10px 0px;
+    font-size: 12px;
+}
