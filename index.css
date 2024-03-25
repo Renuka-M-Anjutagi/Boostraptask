@@ -3,16 +3,13 @@ body{
     align-items: center;
 }
 .box{
-    padding: 60px;
-    margin: 20px;
+    padding: 70px 1px;
 }
 .insta{
 
     background-color: white;
-    text-align: center;
-
-    margin: 20px;
-    padding: 30px;
+    padding:50px 10px;
+    margin:30px 5px
    
 }
 .fa
@@ -20,7 +17,6 @@ body{
     color: royalblue;
 }
 p{
-
-    margin: 10px 0px;
+    margin:10px 0px;
     font-size: 12px;
 }
